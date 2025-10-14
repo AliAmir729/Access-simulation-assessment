@@ -17,4 +17,4 @@ main → Only this README file.
 
 dev → Full working application (React + Node.js).
 
-Developed by: Ali Amir
+Developed by: Ali AmirAdded setup guide section
