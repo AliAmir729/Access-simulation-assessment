@@ -20,3 +20,5 @@ dev → Full working application (React + Node.js).
 Developed by: Ali AmirAdded setup guide section
 # Access Simulation Assessment
 Project setup and folder structure
+Run client: npm start
+Run server: node server/main.js
